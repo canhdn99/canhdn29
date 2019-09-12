@@ -186,7 +186,7 @@ html {
   position: absolute;
   top: calc(50% - 25px);
   left: calc(50% - 25px);
-  width: 50px;
+  width: 80px;
   transform-origin: 50% 50%;
   opacity: .8;
   animation: heartBeat 1s ease-in-out infinite;
@@ -212,5 +212,5 @@ html {
 
 .heart {
 	position: unset;
-	margin: 1.4rem 0;
+	margin: auto;
 }
