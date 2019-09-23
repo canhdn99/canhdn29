@@ -210,7 +210,7 @@ html {
 
 @keyframes LeftAnimation {
     from {left: 0px;}
-    to {left: 200px;}
+    to {left: 150px;}
 
 		0% {
 			transform: scale(1);
@@ -240,7 +240,7 @@ html {
 
 @keyframes RightAnimation {
     from {right: 0px;}
-    to {right: 200px;}
+    to {right: 150px;}
 
 		0% {
 			transform: scale(1);
