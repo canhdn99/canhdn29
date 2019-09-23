@@ -120,7 +120,7 @@ html {
 	box-shadow: 2px 5px 30px rgba(0,0,0,.3); color: #fff; }
 
 .main-area:after{ content:''; position: absolute; top: 0; bottom: 0;left: 0; right: 0; z-index: -1;
-	opacity: .7; background: linear-gradient(-9deg, #6a82fb 0%, #6a82fb 40%, #fc5c7d 100%); }
+	opacity: .5; background: linear-gradient(-9deg, #6a82fb 0%, #6a82fb 40%, #fc5c7d 100%); }
 
 .main-area .desc{ margin: 20px auto; max-width: 500px; }
 
@@ -129,22 +129,6 @@ html {
 
 .main-area .notify-btn:hover{ background: none; }
 
-
-/* EMAIL INPUT */
-
-.main-area .email-input-area{ margin: 40px auto; position: relative; width: 450px; height: 53px; }
-
-.main-area .email-input-area .email-input{ width: 100%; position: absolute; top: 0; bottom: 0; left: 0;
-	border-radius: 40px; border: 0; outline: 0; padding: 0 140px 0 25px; transition: all .2s; background: #F1F2F3;
-	box-shadow: inset 0 0 1px rgba(0,0,0,.1), 0px 0px 0px 5px rgba(255,255,255,.3); border: 1px solid transparent; }
-
-.main-area .email-input-area .email-input:focus{ border-color: #f89fbc; }
-
-
-.main-area .email-input-area .submit-btn{ width: 120px; text-align: center; position: absolute; top: 5px; bottom: 5px; right: 5px; font-size: .9em;
-	border-radius: 40px; transition: all .3s; background: #F84982; color: #fff; }
-
-.main-area .email-input-area .submit-btn:hover{ background: #e40b52; }
 
 
 
