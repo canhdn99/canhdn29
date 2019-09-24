@@ -180,14 +180,14 @@ html {
     text-align: center;
     width: 80px;
     position: relative;
-    animation: LeftAnimation 3s linear infinite;
+    animation: LeftAnimation 3s linear infinite alternate;
 }
 
 .r {
     text-align: center;
     width: 80px;
     position: relative;
-    animation: RightAnimation 3s linear infinite;
+    animation: RightAnimation 3s linear infinite alternate;
 }
 
 
